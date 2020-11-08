@@ -19,4 +19,4 @@ setInterval(() => {
     io.emit('interval', rNumbers);
 }, 5000);
 
-server.listen(3000);
+server.listen(3001);
